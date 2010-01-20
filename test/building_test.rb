@@ -1,6 +1,6 @@
 require 'test/unit'
 
-class HelloTest < Test::Unit::TestCase
+class BuildingTest < Test::Unit::TestCase
   # def setup
   # end
 
