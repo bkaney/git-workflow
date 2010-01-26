@@ -1,5 +1,5 @@
 class Building
-  def self.tall
+  def self.taller
     true
   end
 end
