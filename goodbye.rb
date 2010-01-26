@@ -1,7 +1,7 @@
 class Goodbye
 
   def say
-    "Peace"
+    "Piece"
   end
 
 end
