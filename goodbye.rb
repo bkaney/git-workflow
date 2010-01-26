@@ -1,7 +1,7 @@
 class Goodbye
 
   def say
-    "Peace out homee"
+    "Peace out homeslice"
   end
 
 end
