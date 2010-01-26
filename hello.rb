@@ -5,7 +5,7 @@ class Hello
   end
 
   def say
-    "Word"
+    "Howdy"
   end
 
 end
